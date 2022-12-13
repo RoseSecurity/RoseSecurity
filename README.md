@@ -16,5 +16,3 @@
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@RoseSecurity/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@RoseSecurity/1" alt="Recent Article 2">
 ---
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@RoseSecurity/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@RoseSecurity/3" alt="Recent Article 3">
-
-# Favorite Projects:
