@@ -10,7 +10,7 @@
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=RoseSecurity&show_icons=true&theme=github_dark&layout=compact&hide_rank=true" alt="GitHub Stats" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=RoseSecurity&show_icons=true&theme=github_dark&layout=compact&rank_icon=github" alt="GitHub Stats" height="192px"/>
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
