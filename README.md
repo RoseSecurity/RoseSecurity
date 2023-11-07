@@ -9,9 +9,9 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoseSecurity&theme=transparent" alt="Profile Details" height="192px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoseSecurity&theme=transparent" alt="Profile Details" height="162px" />
   
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RoseSecurity&theme=transparent" alt="GitHub Stats" height="192px" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RoseSecurity&theme=transparent" alt="GitHub Stats" height="162px" />
 </p>
 
 
