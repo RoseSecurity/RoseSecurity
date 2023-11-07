@@ -10,11 +10,11 @@
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=RoseSecurity&show_icons=true&theme=github_dark&layout=compact" alt="GitHub Stats" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=RoseSecurity&show_icons=true&theme=github_dark&layout=compact&hide_rank=true" alt="GitHub Stats" height="192px"/>
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoseSecurity&show_icons=true&theme=github_dark&layout=compact" alt="Top Languages" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoseSecurity&show_icons=true&theme=github_dark&layout=donut" alt="Top Languages" height="192px"/>
   </a>
 </p>
 
