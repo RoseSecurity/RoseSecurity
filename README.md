@@ -23,9 +23,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Security+Blog%3A)](https://git.io/typing-svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Boost Your Productivity with Terraform Autocompletion in Vim](https://dev.to/rosesecurity/boost-your-productivity-with-terraform-autocompletion-in-vim-4lik)
 - [Leveraging GitHub Actions for Automated Active Reconnaissance](https://dev.to/rosesecurity/leveraging-github-actions-for-automated-active-reconnaissance-ffk)
 - [Creative C2 Obfuscation: CloudFronting Through Firewalls and Hiding in Plain PCAP](https://dev.to/rosesecurity/creative-c2-obfuscation-cloudfronting-through-firewalls-and-hiding-in-plain-pcap-3dkg)
 - [Transforming Azure Static Web Applications into C2 Redirectors](https://dev.to/rosesecurity/transforming-azure-static-web-applications-into-c2-redirectors-118m)
 - [A Quick Guide on How to Aggravate Friends, Family, and Foes](https://dev.to/rosesecurity/a-quick-guide-on-how-to-aggravate-friends-family-and-foes-3oak)
-- [A Theoretically Devastating Cyber Attack on America’s Gas Stations:](https://dev.to/rosesecurity/a-theoretically-devastating-cyber-attack-on-americas-gas-stations-2mgl)
 <!-- BLOG-POST-LIST:END -->
