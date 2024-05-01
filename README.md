@@ -12,7 +12,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=About+Me%3A)](https://git.io/typing-svg)
 
-> [!IMPORTANT ]
+> [!IMPORTANT]
 > Hey, I'm RoseSecurity!
 >
 > My journey into the world of computing began as a cybersecurity network operator, where I developed intrusion detection systems to protect critical infrastructure, automated Blue Team vulnerability assessments, and even ventured into the Red Team space as an offensive operator and infrastructure engineer. It was during this time that I discovered my passion for building secure, scalable, and reliable cloud environments! Currently, I write Infrastructure-as-Code and automation to help startups and established companies quickly and securely build their cloud environments, but when I'm not building cloud networks, you can catch me conducting security research to identify modern tactics, techniques, and procedures used by malicious actors. If you enjoy my code, blogs, or tools, feel free to reach out and connect!
