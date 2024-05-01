@@ -1,14 +1,13 @@
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/72598486/207249017-442b186c-6800-4835-b367-5d05000e16c1.gif" width="900" height="200"/>
+  <img src="https://github.com/RoseSecurity/RoseSecurity/assets/72598486/2bf4d90d-94ac-4a4f-b7d6-b0205b4687f2" width="1000" height="300"/>
 </div>
+
+---
 
 <p align="right">
   <a href="https://www.linkedin.com/in/rosesecurity" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="https://github.com/RoseSecurity/Red-Teaming-TTPs" title="Red-Teaming-TTPs"><img src="https://img.shields.io/badge/Red_Teaming_TTPs-red.svg?style=for-the-badge" alt="Red Teaming TTPs"></a>
   <a href="https://github.com/cloudposse/terraform-aws-components" title="Terraform AWS Components"><img src="https://img.shields.io/badge/Terraform_AWS_Components-5C4EE6.svg?style=for-the-badge" alt="Terraform AWS Components"></a>
 </p>
-
----
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=About+Me%3A)](https://git.io/typing-svg)
 
