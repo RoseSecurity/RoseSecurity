@@ -2,21 +2,20 @@
   <img src="https://user-images.githubusercontent.com/72598486/207249017-442b186c-6800-4835-b367-5d05000e16c1.gif" width="900" height="200"/>
 </div>
 
+<p align="right">
+  <a href="https://www.linkedin.com/in/rosesecurity" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://github.com/RoseSecurity/Red-Teaming-TTPs" title="Red-Teaming-TTPs"><img src="https://img.shields.io/badge/Red_Teaming_TTPs-red.svg?style=for-the-badge" alt="Red Teaming TTPs"></a>
+  <a href="https://github.com/cloudposse/terraform-aws-components" title="Terraform AWS Components"><img src="https://img.shields.io/badge/Terraform_AWS_Components-5C4EE6.svg?style=for-the-badge" alt="Terraform AWS Components"></a>
+</p>
+
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Technology+Stack%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=About+Me%3A)](https://git.io/typing-svg)
 
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black) ![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=Ansible&logoColor=white)
-
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=RoseSecurity&show_icons=true&theme=github_dark&layout=compact&rank_icon=github" alt="GitHub Stats" height="192px"/>
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoseSecurity&show_icons=true&theme=github_dark&layout=donut" alt="Top Languages" height="192px"/>
-  </a>
-</p>
+> [!IMPORTANT ]
+> Hey, I'm RoseSecurity!
+>
+> My journey into the world of computing began as a cybersecurity network operator, where I developed intrusion detection systems to protect critical infrastructure, automated Blue Team vulnerability assessments, and even ventured into the Red Team space as an offensive operator and infrastructure engineer. It was during this time that I discovered my passion for building secure, scalable, and reliable cloud environments! Currently, I write Infrastructure-as-Code and automation to help startups and established companies quickly and securely build their cloud environments, but when I'm not building cloud networks, you can catch me conducting security research to identify modern tactics, techniques, and procedures used by malicious actors. If you enjoy my code, blogs, or tools, feel free to reach out and connect!
 
 ---
 
