@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/RoseSecurity/RoseSecurity/assets/72598486/2bf4d90d-94ac-4a4f-b7d6-b0205b4687f2" width="1000" height="300"/>
+  <img src="https://github.com/RoseSecurity/RoseSecurity/assets/72598486/e8663734-af68-4757-9a72-af401fbc1662" width="1000" height="300"/>
 </div>
 
 ---
