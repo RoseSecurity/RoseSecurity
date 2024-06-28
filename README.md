@@ -21,9 +21,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Security+Blog%3A)](https://git.io/typing-svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Infrastructure Essentials Part 1: A Terraform Recipe for Success](https://dev.to/rosesecurity/infrastructure-essentials-part-1-a-terraform-recipe-for-success-1d8g)
 - [Upgrading GitLab CI/CD Authentication: Migrating to OIDC for Google Cloud](https://dev.to/rosesecurity/upgrading-gitlab-cicd-authentication-migrating-to-oidc-for-google-cloud-3kd5)
 - [Crafting Malicious Pluggable Authentication Modules for Persistence, Privilege Escalation, and Lateral Movement](https://dev.to/rosesecurity/crafting-malicious-pluggable-authentication-modules-for-persistence-privilege-escalation-and-lateral-movement-183i)
 - [Boost Your Productivity with Terraform Autocompletion in Vim](https://dev.to/rosesecurity/boost-your-productivity-with-terraform-autocompletion-in-vim-4lik)
 - [Leveraging GitHub Actions for Automated Active Reconnaissance](https://dev.to/rosesecurity/leveraging-github-actions-for-automated-active-reconnaissance-ffk)
-- [Creative C2 Obfuscation: CloudFronting Through Firewalls and Hiding in Plain PCAP](https://dev.to/rosesecurity/creative-c2-obfuscation-cloudfronting-through-firewalls-and-hiding-in-plain-pcap-3dkg)
 <!-- BLOG-POST-LIST:END -->
