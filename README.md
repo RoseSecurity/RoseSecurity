@@ -5,9 +5,17 @@
 ---
 
 <p align="right">
-  <a href="https://www.linkedin.com/in/rosesecurity" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="https://github.com/cloudposse/terraform-aws-components" title="Terraform AWS Components"><img src="https://img.shields.io/badge/Terraform_AWS_Components-5C4EE6.svg?style=for-the-badge" alt="Terraform AWS Components"></a>
+  <a href="https://www.linkedin.com/in/rosesecurity" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/cloudposse/terraform-aws-components" title="Terraform AWS Components">
+    <img src="https://img.shields.io/badge/Terraform_AWS_Components-5C4EE6.svg?style=for-the-badge" alt="Terraform AWS Components">
+  </a>
+  <a href="https://log.rosesecurity.dev" title="Development Blog">
+    <img src="https://img.shields.io/badge/Development_Blog-1d1d1d.svg?style=for-the-badge&logo=log" alt="Rose Security Logs">
+  </a>
 </p>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=About+Me%3A)](https://git.io/typing-svg)
 
