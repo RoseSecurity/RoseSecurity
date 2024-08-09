@@ -7,7 +7,7 @@
 <p align="right">
   <a href="https://www.linkedin.com/in/rosesecurity" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge" alt="LinkedIn"></a>
   <a href="https://github.com/cloudposse/terraform-aws-components" title="Terraform AWS Components"><img src="https://img.shields.io/badge/Terraform_AWS_Components-5C4EE6.svg?style=for-the-badge" alt="Terraform AWS Components"></a>
-  <a href="https://log.rosesecurity.dev" title="Development Blog"><img
+  <a href="https://rosesecurity.dev/" title="Development Blog"><img
 src="https://img.shields.io/badge/Development_Blog-1d1d1d.svg?style=for-the-badge" alt="Terraform AWS Components"></a>
 </p>
 
