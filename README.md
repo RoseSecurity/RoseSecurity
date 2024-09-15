@@ -17,7 +17,7 @@ src="https://img.shields.io/badge/Development_Blog-1d1d1d.svg?style=for-the-badg
 > [!IMPORTANT]
 > Hey, I'm RoseSecurity!
 >
-> My journey into the world of computing began as a cybersecurity network operator, where I developed intrusion detection systems to protect critical infrastructure, automated Blue Team vulnerability assessments, and even ventured into the Red Team space as an offensive operator and infrastructure engineer. It was during this time that I discovered my passion for building secure, scalable, and reliable cloud environments! Currently, I write Infrastructure-as-Code and automation to help startups and established companies quickly and securely build their cloud environments, but when I'm not building cloud networks, you can catch me conducting security research to identify modern tactics, techniques, and procedures used by malicious actors. If you enjoy my code, blogs, or tools, feel free to reach out and connect!
+> I write Infrastructure-as-Code and automation to help startups and established companies quickly and securely build their cloud environments, but when I'm not building cloud networks, you can catch me conducting security research to identify modern tactics, techniques, and procedures used by malicious actors. If you enjoy my code, blogs, or tools, feel free to reach out and connect!
 
 ---
 
