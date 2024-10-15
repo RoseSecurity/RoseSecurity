@@ -16,7 +16,7 @@ src="https://img.shields.io/badge/Development_Blog-1d1d1d.svg?style=for-the-badg
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Security+Blog%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Development+Blog%3A)](https://git.io/typing-svg)
 
 <!-- BLOG-POST-LIST:START -->
 - [From Source to System: Packaging and Delivering Tools to Debian-based Distros](https://rosesecurity.dev/2024/09/15/from-source-to-system-on-debian)
