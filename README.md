@@ -19,9 +19,9 @@ src="https://img.shields.io/badge/Development_Blog-1d1d1d.svg?style=for-the-badg
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Security+Blog%3A)](https://git.io/typing-svg)
 
 <!-- BLOG-POST-LIST:START -->
-- [Upgrading GitLab CI/CD Authentication: Migrating to OIDC for Google Cloud](https://dev.to/rosesecurity/upgrading-gitlab-cicd-authentication-migrating-to-oidc-for-google-cloud-3kd5)
-- [Crafting Malicious Pluggable Authentication Modules for Persistence, Privilege Escalation, and Lateral Movement](https://dev.to/rosesecurity/crafting-malicious-pluggable-authentication-modules-for-persistence-privilege-escalation-and-lateral-movement-183i)
-- [Boost Your Productivity with Terraform Autocompletion in Vim](https://dev.to/rosesecurity/boost-your-productivity-with-terraform-autocompletion-in-vim-4lik)
-- [Leveraging GitHub Actions for Automated Active Reconnaissance](https://dev.to/rosesecurity/leveraging-github-actions-for-automated-active-reconnaissance-ffk)
-- [Creative C2 Obfuscation: CloudFronting Through Firewalls and Hiding in Plain PCAP](https://dev.to/rosesecurity/creative-c2-obfuscation-cloudfronting-through-firewalls-and-hiding-in-plain-pcap-3dkg)
+- [From Source to System: Packaging and Delivering Tools to Debian-based Distros](https://rosesecurity.dev/2024/09/15/from-source-to-system-on-debian)
+- [Homegrown Honeypots: Simulating a Water Control System in my Home Office](https://rosesecurity.dev/2024/08/28/homegrown-honeypots)
+- [The Future of Terraform Visualizations](https://rosesecurity.dev/2024/07/29/the-future-of-terraform-visualizations)
+- [My Neovim Note-taking Workflow](https://rosesecurity.dev/2024/07/26/my-vim-note-taking-workflow)
+- [Crafting Malicious Pluggable Authentication Modules for Persistence, Privilege Escalation, and Lateral Movement](https://rosesecurity.dev/2024/07/25/crafting-malicious-pluggable-authentication-modules)
 <!-- BLOG-POST-LIST:END -->
