@@ -28,4 +28,8 @@ src="https://img.shields.io/badge/Development_Blog-1d1d1d.svg?style=for-the-badg
 - [Terraform Proverbs](https://rosesecurity.dev/blog/2024/11/24/terraform-proverbs)
 - [From Source to System: Packaging and Delivering Tools to Debian-based Distros](https://rosesecurity.dev/blog/2024/09/15/from-source-to-system-on-debian)
 - [Homegrown Honeypots: Simulating a Water Control System in my Home Office](https://rosesecurity.dev/blog/2024/08/28/homegrown-honeypots)
+- [The Future of Terraform Visualizations](https://rosesecurity.dev/blog/2024/07/29/the-future-of-terraform-visualizations)
+- [My Neovim Note-taking Workflow](https://rosesecurity.dev/blog/2024/07/26/my-vim-note-taking-workflow)
+- [Crafting Malicious Pluggable Authentication Modules for Persistence, Privilege Escalation, and Lateral Movement](https://rosesecurity.dev/blog/2024/07/25/crafting-malicious-pluggable-authentication-modules)
+- [Infrastructure Essentials Part 1: A Terraform Recipe for Success](https://rosesecurity.dev/blog/2024/06/28/infrastructure-essentials-part-1)
 <!-- BLOG-POST-LIST:END -->
