@@ -23,6 +23,7 @@ src="https://img.shields.io/badge/Development_Blog-1d1d1d.svg?style=for-the-badg
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Development+Blog%3A)](https://git.io/typing-svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Rushing Toward Rewrite](https://rosesecurity.dev/blog/2025/03/26/rushing-toward-rewrite)
 - [Engineering in Quicksand](https://rosesecurity.dev/blog/2025/03/12/engineering-in-quicksand)
 - [The Abstraction Debt in Infrastructure as Code](https://rosesecurity.dev/blog/2025/03/06/the-abstraction-debt-in-iac)
 - [Terraform Proverbs](https://rosesecurity.dev/blog/2024/11/24/terraform-proverbs)
