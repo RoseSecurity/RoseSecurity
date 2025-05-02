@@ -14,7 +14,7 @@ src="https://img.shields.io/badge/Development_Blog-1d1d1d.svg?style=for-the-badg
 > [!IMPORTANT]
 > Hey, I'm **RoseSecurity**!
 >
-> I write Infrastructure-as-Code and automation to help startups and established companies quickly and securely build their cloud environments, but when I'm not building cloud networks, you can catch me conducting security research to identify modern tactics, techniques, and procedures used by malicious actors.
+> I build tools to simplify managing infra for startups and enterprise businesses. My goal has always been to create automation that makes building secure, scalable cloud environments fast and efficient without compromising on quality. When I'm not hacking on Terraform or Go code, you can catch me conducting security research to stay ahead of evolving threats targeting companies in the cloud.
 > 
 > If you enjoy my code, blogs, or tools, feel free to reach out and connect!
 
