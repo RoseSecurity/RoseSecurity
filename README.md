@@ -23,6 +23,7 @@ src="https://img.shields.io/badge/Development_Blog-1d1d1d.svg?style=for-the-badg
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Development+Blog%3A)](https://git.io/typing-svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [KISS vs DRY in Infrastructure as Code: Why Simple Often Beats Clever](https://rosesecurity.dev/2025/11/14/kiss-versus-dry-iac.html)
 - [Gang of Three: Pragmatic Operations Design Patterns](https://rosesecurity.dev/2025/10/23/gang-of-three.html)
 - [Testing IaC with the TerraStack](https://rosesecurity.dev/2025/08/15/testing-iac-with-the-terrastack.html)
 - [Rushing Toward Rewrite](https://rosesecurity.dev/2025/03/26/rushing-toward-rewrite.html)
@@ -32,5 +33,4 @@ src="https://img.shields.io/badge/Development_Blog-1d1d1d.svg?style=for-the-badg
 - [From Source to System: Packaging and Delivering Tools to Debian-based Distros](https://rosesecurity.dev/2024/09/15/from-source-to-system-on-debian.html)
 - [Homegrown Honeypots: Simulating a Water Control System in my Home Office](https://rosesecurity.dev/2024/08/28/homegrown-honeypots.html)
 - [The Future of Terraform Visualizations](https://rosesecurity.dev/2024/07/29/the-future-of-terraform-visualizations.html)
-- [My Neovim Note-taking Workflow](https://rosesecurity.dev/2024/07/26/my-vim-note-taking-workflow.html)
 <!-- BLOG-POST-LIST:END -->
