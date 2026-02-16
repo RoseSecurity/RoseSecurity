@@ -24,8 +24,6 @@ src="https://img.shields.io/badge/Development_Blog-1d1d1d.svg?style=for-the-badg
 
 <!-- BLOG-POST-LIST:START -->
 - [Terraform Variable Validation Doesn’t Work the Way You Think](https://rosesecurity.dev/2026/02/13/terraform-variable-validation.html)
-- [The Roadhouse Pattern](https://rosesecurity.dev/2026/02/09/the-roadhouse-pattern.html)
-- [Infra Proverbs](https://rosesecurity.dev/2025/12/17/infra-proverbs.html)
 - [Terraform Drift Detection Powered by GitHub Actions](https://rosesecurity.dev/2025/12/11/terraform-drift-detection-with-github-actions.html)
 - [Terraform Tips from the IaC Trenches](https://rosesecurity.dev/2025/12/04/terraform-tips-and-tricks.html)
 - [KISS vs DRY in Infrastructure as Code: Why Simple Often Beats Clever](https://rosesecurity.dev/2025/11/14/kiss-versus-dry-iac.html)
@@ -33,4 +31,6 @@ src="https://img.shields.io/badge/Development_Blog-1d1d1d.svg?style=for-the-badg
 - [Testing IaC with the TerraStack](https://rosesecurity.dev/2025/08/15/testing-iac-with-the-terrastack.html)
 - [Rushing Toward Rewrite](https://rosesecurity.dev/2025/03/26/rushing-toward-rewrite.html)
 - [Engineering in Quicksand](https://rosesecurity.dev/2025/03/12/engineering-in-quicksand.html)
+- [The Abstraction Debt in Infrastructure as Code](https://rosesecurity.dev/2025/03/06/the-abstraction-debt-in-iac.html)
+- [Terraform Proverbs](https://rosesecurity.dev/2024/11/24/terraform-proverbs.html)
 <!-- BLOG-POST-LIST:END -->
