@@ -23,6 +23,7 @@ src="https://img.shields.io/badge/Development_Blog-1d1d1d.svg?style=for-the-badg
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Development+Blog%3A)](https://git.io/typing-svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Monorepository of Terraform Modules on GitLab](https://rosesecurity.dev/2026/07/14/building-a-monorepository-of-terraform-modules.html)
 - [Building an AWS Image Factory with Packer and Terratest](https://rosesecurity.dev/2026/05/20/building-an-image-factory.html)
 - [Welcome to Transitive Dependency Hell](https://rosesecurity.dev/2026/03/31/welcome-to-transitive-dependency-hell.html)
 - [SHA Pinning Is Not Enough](https://rosesecurity.dev/2026/03/24/sha-pinning-is-not-enough.html)
@@ -32,5 +33,4 @@ src="https://img.shields.io/badge/Development_Blog-1d1d1d.svg?style=for-the-badg
 - [KISS vs DRY in Infrastructure as Code: Why Simple Often Beats Clever](https://rosesecurity.dev/2025/11/14/kiss-versus-dry-iac.html)
 - [Gang of Three: Pragmatic Operations Design Patterns](https://rosesecurity.dev/2025/10/23/gang-of-three.html)
 - [Testing IaC with the TerraStack](https://rosesecurity.dev/2025/08/15/testing-iac-with-the-terrastack.html)
-- [Rushing Toward Rewrite](https://rosesecurity.dev/2025/03/26/rushing-toward-rewrite.html)
 <!-- BLOG-POST-LIST:END -->
