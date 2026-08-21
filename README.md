@@ -23,6 +23,7 @@ src="https://img.shields.io/badge/Development_Blog-1d1d1d.svg?style=for-the-badg
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Development+Blog%3A)](https://git.io/typing-svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Backups for Everyone](https://rosesecurity.dev/2026/08/21/aws-backups-for-everyone.html)
 - [Implementing OPA with Terraform the Easy Way](https://rosesecurity.dev/2026/08/12/terraform-opa-the-easy-way.html)
 - [Building an Infrastructure Development Toolkit](https://rosesecurity.dev/2026/07/31/building-an-infrastructure-development-toolkit.html)
 - [Poor Man’s Secret Rotation in Terraform](https://rosesecurity.dev/2026/07/24/terraform-secrets-rotation.html)
@@ -32,5 +33,4 @@ src="https://img.shields.io/badge/Development_Blog-1d1d1d.svg?style=for-the-badg
 - [SHA Pinning Is Not Enough](https://rosesecurity.dev/2026/03/24/sha-pinning-is-not-enough.html)
 - [How a Typosquatted Domain and a Fake Version Tag Turned Trivy Into a Credential Stealer](https://rosesecurity.dev/2026/03/20/typosquatting-trivy.html)
 - [Terraform Drift Detection Powered by GitHub Actions](https://rosesecurity.dev/2025/12/11/terraform-drift-detection-with-github-actions.html)
-- [Terraform Tips from the IaC Trenches](https://rosesecurity.dev/2025/12/04/terraform-tips-and-tricks.html)
 <!-- BLOG-POST-LIST:END -->
